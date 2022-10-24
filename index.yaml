@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  CPE:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-24T09:21:36.854847053Z"
+    description: A Helm chart for Kubernetes
+    digest: 3ed9aafd3026b04aa5a351334f6c7531489886ebada2b089f100d8753f20f36d
+    name: CPE
+    type: application
+    urls:
+    - https://github.com/JamieWithofsPXL/python-compose/releases/download/CPE-0.1.0/CPE-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-24T09:21:36.854853553Z"
